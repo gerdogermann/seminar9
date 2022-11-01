@@ -11,6 +11,7 @@
 		A3DEA33B29110F35008C0838 /* conflict.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = conflict.txt; sourceTree = "<group>"; };
 		A3F16C8629111AB9006ECB1C /* hinnaleht.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = hinnaleht.html; sourceTree = "<group>"; };
 		A3F16C8729111AB9006ECB1C /* broneering.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = broneering.html; sourceTree = "<group>"; };
+		A3F16C8829111E3F006ECB1C /* style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -21,6 +22,7 @@
 				A3DEA33A29110E3F008C0838 /* leht.html */,
 				A3F16C8729111AB9006ECB1C /* broneering.html */,
 				A3F16C8629111AB9006ECB1C /* hinnaleht.html */,
+				A3F16C8829111E3F006ECB1C /* style.css */,
 			);
 			sourceTree = "<group>";
 		};
