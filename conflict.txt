@@ -1,2 +1,3 @@
 hei! siin on tekstifail
 teine rida
+Muidugi teeme kolmandat rida
