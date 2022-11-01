@@ -8,12 +8,14 @@
 
 /* Begin PBXFileReference section */
 		A3DEA33A29110E3F008C0838 /* leht.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = leht.html; sourceTree = "<group>"; };
+		A3DEA33B29110F35008C0838 /* conflict.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = conflict.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		A3DEA33329110E2D008C0838 = {
 			isa = PBXGroup;
 			children = (
+				A3DEA33B29110F35008C0838 /* conflict.txt */,
 				A3DEA33A29110E3F008C0838 /* leht.html */,
 			);
 			sourceTree = "<group>";
